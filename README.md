@@ -4,5 +4,7 @@
 3. go to stockmarket->stockmarket
 4. run `scrapy crawl nepse -o filename.csv`
 ## Features
-a. Collects the data of the past 1 year data from today's run date
-b. Error Handling is perfomed
+1. Collects the data of the past 1 year data from today's run date(date can be changed in the loop code)
+2. Error Handling is perfomed
+
+
